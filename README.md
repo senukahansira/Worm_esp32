@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Hardware-3D%20Printed%20Case-555555?style=for-the-badge&logo=3dprinting" alt="3D printed case" />
 </p>
 
-An ESP32-based portable wireless security research and experimentation platform. The project explores Wi-Fi and Bluetooth capabilities, raw packet transmission, sanity-check functions, embedded firmware, and a custom 3D-printed enclosure in a compact, Flipper Zero-inspired form factor.
+An ESP32-based portable wireless security research and experimentation platform. The project explores Wi-Fi and Bluetooth capabilities, raw packet transmission, sanity-check functions, embedded firmware, and a custom 3D-printed enclosure in a compact.
 
 
 
