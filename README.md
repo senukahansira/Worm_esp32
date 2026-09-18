@@ -12,7 +12,7 @@ An ESP32-based portable wireless security research and experimentation platform.
 
 
 
-## ✨ What it does
+## ✨ What's it does
 
 - Provides a portable ESP32 platform for wireless security research
 - Experiments with Wi-Fi and Bluetooth/BLE features supported by the selected ESP32 board
